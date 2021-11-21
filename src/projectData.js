@@ -1,7 +1,7 @@
 const projects = [
   {
     title: "NFT Gallery",
-    image: "./images/portfolio2.png",
+    image: "./images/nft.png",
     description: "Search and View NFT's with any wallet address",
     tools: ["ReactJs", "JavaScript", "CSS", "Web3"],
     github: "https://github.com/smilleeymilleey/NFT",
@@ -9,7 +9,7 @@ const projects = [
   },
   {
     title: "EtherScan Clone",
-    image: "./images/portfolio2.png",
+    image: "./images/history.png",
     description: "Search wallets and view Crypto transaction history",
     tools: ["ReactJs", "JavaScript", "CSS", "Web3"],
     github: "https://github.com/smilleeymilleey/landing-page-finance-app",
