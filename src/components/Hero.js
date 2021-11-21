@@ -29,7 +29,7 @@ const Hero = () => {
             <p className="tracking-wide leading-relaxed">{FRONT_PAGE_DESC} </p>
           </article>
           <div
-            className="container absolute py-6 -top-3/4 -right-full -z-1"
+            className="container absolute py-6 top-20 right-full md:-top-3/4 sm:-right-full md:-right-3/4 lg:-top-3/4 lg:-right-full -z-1"
             ref={container}
           ></div>
         </div>

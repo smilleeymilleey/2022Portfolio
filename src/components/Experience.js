@@ -16,7 +16,7 @@ function Experience() {
                 workHistory.map((work) => (
                   <div className="cd-timeline-block">
                     <div className="cd-timeline-img cd-picture"></div>
-                    <div className="cd-timeline-content">
+                    <div className="cd-timeline-content ml-32 md:ml-56 lg:-ml-20 lg:mr-30 lg:w-2/6 w-full md:w-full">
                       <h1 className="uppercase font-bold text-2xl pl-3 pt-2 flex">
                         {work?.companyName}
                         <span>
