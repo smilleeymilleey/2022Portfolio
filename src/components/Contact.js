@@ -104,20 +104,19 @@ const Contact = () => {
           >
             <picture>
               <source
-                className="absolute top-6.5"
+                className="absolute -top-40 h-auto"
                 srcSet="./images/rocket-320.webp 320w, ./images/rocket.webp 768w"
                 type="image/webp"
               />
               <source
-                className="absolute top-6.5"
+                className="absolute -top-40  h-auto"
                 srcSet="./images/rocket.png"
                 sizes="(min-width: 768px) 50vw, 100vw"
                 type="image/png"
               />
               <img
-                className="absolute top-6.5"
+                className="absolute -top-40 h-auto"
                 width="500px"
-                height="500px"
                 loading="lazy"
                 alt="red rocket flying"
               />
