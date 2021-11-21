@@ -1,5 +1,5 @@
 export const RESUME_PATH =
-  "https://drive.google.com/file/d/11mhd52rfA17Qn8hGFw5TyOSahCRDg84z/view?usp=sharing";
+  "hhttps://docs.google.com/document/d/1sswIqnC9fpCC_LJcaOoV81sUmw-7JCWA/edit?usp=sharing&ouid=108712308897528471489&rtpof=true&sd=true";
 export const GITHUB_USERNAME = "smilleeymilleey";
 export const LINKEDIN_USERNAME = "caitlynmiley";
 export const FIRST_NAME = "Caitlyn";
